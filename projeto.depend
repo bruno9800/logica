@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1655500276 source:c:\users\user\documents\bruno\projects\projeto\main.cpp
+	"project.h"
+
+1655499609 c:\users\user\documents\bruno\projects\projeto\header.h
+	<iostream>
+	<string>
+	<algorithm>
+	<list>
+	<math.h>
+	<string.h>
+	<iomanip>
+
+1655499773 source:c:\users\user\documents\bruno\projects\projeto\checkfbf.cpp
+	"project.h"
+
+1655508473 c:\users\user\documents\bruno\projects\projeto\project.h
+	<iostream>
+	<string>
+	<algorithm>
+	<list>
+	<math.h>
+	<string.h>
+	<iomanip>
+
+1655500267 source:c:\users\user\documents\bruno\projects\projeto\resultexpression.cpp
+	"project.h"
+
+1655508592 source:c:\users\user\documents\bruno\projects\projeto\binary.cpp
+	"project.h"
+
+1655535714 source:c:\users\user\documents\bruno\projects\projeto\truthtable.cpp
+	"project.h"
+	<string>
+
+1655535546 source:c:\users\user\documents\bruno\projects\projeto\fndefnc.cpp
+	"project.h"
+	<sstream>
+
